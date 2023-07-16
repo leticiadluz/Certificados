@@ -11,7 +11,7 @@
 
 | Plataforma de Ensino |                   Curso                        | Descrição |
 | :------------------: | ---------------------------------------------- |:--------: | 
-|      Udacity         | [**Intro to Statistics**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Udacity-Intro%20to%20Statistics.jpg)                        || [📝][4] | 
+|      Udacity         | [**Intro to Statistics**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Udacity-Intro%20to%20Statistics.jpg)                        |[📝][4]| 
 |      Udacity         | [**Introduction to Descriptive Statistics**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Udacity-Introduction%20to%20Descriptive%20Statistics.jpg)     | 
 |      Udacity         | [**Linear Algebra Refresher Course**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Udacity-Linear%20Algebra%20Refresher%20Course.jpg)            | 
 |      Udacity         | [**Eigenvectors and Eigenvalues**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Udacity-Eigenvectors%20and%20Eigenvalues.jpg)               | 
