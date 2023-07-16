@@ -17,4 +17,4 @@
 |      Udacity         | [**Eigenvectors and Eigenvalues**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Udacity-Eigenvectors%20and%20Eigenvalues.jpg)               | 
 
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
-[1]: [!%20Maratonas%20e%20Competições/](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%202023%20-%20O%20Curso%20COMPLETO)https://github.com/leticiadluz/Certificados/blob/main/Certificados/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%202023%20-%20O%20Curso%20COMPLETO
+[1]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%202023%20-%20O%20Curso%20COMPLETO
