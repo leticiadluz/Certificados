@@ -1,3 +1,5 @@
+Para acessar os certificados, basta clicar no nome do curso correspondente. Os certificados estão disponíveis para visualização imediata.
+
 ## 🎓 Cursos com certificação
 
 | Plataforma de Ensino |                   Curso                        | Descrição |
