@@ -26,4 +26,4 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 [4]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Introduction%20to%20Descriptive%20Statistics
 [5]: https://github.com/leticiadluz/Certificados/blob/main/Certificados/Linear%20Algebra%20Refresher%20Course
 [6]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Eigenvectors%20and%20Eigenvalues
-[7]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/certificate-big-data-fundamentos-30-60ec7800e32fc38b555ace1e.pdf
+[7]:
