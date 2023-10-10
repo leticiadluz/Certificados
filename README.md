@@ -27,4 +27,4 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 [5]: https://github.com/leticiadluz/Certificados/blob/main/Certificados/Linear%20Algebra%20Refresher%20Course
 [6]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Eigenvectors%20and%20Eigenvalues
 [7]:
-[8]:
+[8]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Fundamentos%20do%20Big%20Data
