@@ -29,4 +29,4 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 [6]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Eigenvectors%20and%20Eigenvalues
 [7]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Fundamentos%20do%20Big%20Data
 [8]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Fundamentos%20de%20Linguagem%20Python
-[9]
+[9]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Big%20Data%20Analytics%20com%20R%20e%20Microsoft%20Azure%20Machine%20Learning
