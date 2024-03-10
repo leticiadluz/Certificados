@@ -1,6 +1,6 @@
 Para acessar os certificados, basta clicar no nome do curso correspondente. Os certificados estão disponíveis para visualização imediata.
 
-## 🎓 Cursos com certificação
+## 🎓 Cursos com certificado
 
 | Plataforma de Ensino |                   Curso                        | Descrição |
 | :-------------------:| ---------------------------------------------- | :--------:| 
@@ -9,7 +9,7 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 |     Data Science Academy          | [**Big Data Analytics com R e Microsoft Azure Machine Learning**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/certificate-big-data-analytics-com-r-e-microsoft-azure-machine-learning-57b1584047d7dd80cc8b4570.pdf)|[📝][3]| 
 
 
-## 🎓 Cursos sem certificação
+## 🎓 Cursos sem certificado
 
 | Plataforma de Ensino |                   Curso                        | Descrição |
 | :------------------: | ---------------------------------------------- |:--------: | 
