@@ -13,9 +13,9 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 
 | Plataforma de Ensino |                   Curso                        | Descrição |
 | :------------------: | ---------------------------------------------- |:--------: | 
-|      Udacity         | [**Introduction to Descriptive Statistics**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Udacity-Introduction%20to%20Descriptive%20Statistics.jpg)|[📝][4]| 
-|      Udacity         | [**Linear Algebra Refresher Course**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Udacity-Linear%20Algebra%20Refresher%20Course.jpg)|[📝][5]|
-|      Udacity         | [**Eigenvectors and Eigenvalues**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Udacity-Eigenvectors%20and%20Eigenvalues.jpg)|[📝][6]|
+|      Udacity         | **Introduction to Descriptive Statistics**|[📝][4]| 
+|      Udacity         | **Linear Algebra Refresher Course**|[📝][5]|
+|      Udacity         | **Eigenvectors and Eigenvalues**|[📝][6]|
 
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
 [1]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%202023%20-%20O%20Curso%20COMPLETO
