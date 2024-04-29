@@ -8,6 +8,7 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 |     Data Science Academy          | [**Fundamentos de Linguagem Python para Análise de Dados e Data Science - Nível Intermediário**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/certificate-fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science-6462a77c2c9340d87a071e3a.pdf)|[📝][2]| 
 |     Data Science Academy          | [**Big Data Analytics com R e Microsoft Azure Machine Learning**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/certificate-big-data-analytics-com-r-e-microsoft-azure-machine-learning-57b1584047d7dd80cc8b4570.pdf)|[📝][3]| 
 |     Udemy         | [**SQL para Análise de Dados**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Udemy%20-%20SQL%20para%20An%C3%A1lise%20de%20Dados%20-%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado.pdf)|[📝][7]| 
+|     Data Science Academy         | [**Big Data Real-Time Analytics com Python e Spark**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/certificate-big-data-real-time-analytics-com-python-e-spark-57e4c3bd47d7dd281c8b4568.pdf)|[📝][8]|
 
 
 ## 🎓 Cursos sem certificado
@@ -26,3 +27,4 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 [5]: https://github.com/leticiadluz/Certificados/blob/main/Certificados/Linear%20Algebra%20Refresher%20Course
 [6]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Eigenvectors%20and%20Eigenvalues
 [7]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/SQL%20para%20An%C3%A1lise%20de%20Dados
+[8]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Big%20Data%20Real-Time%20Analytics%20com%20Python%20e%20Spark
