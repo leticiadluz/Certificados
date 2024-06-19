@@ -4,7 +4,7 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 
 | Plataforma de Ensino |                   Curso                        | Horas |
 | :-------------------:| ---------------------------------------------- | :--------:| 
-|     AdaTech            | [**Data Science**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/77e9704643ea8fb29432f3f90146ef9d.pdf) | 312 |
+|     AdaTech            | [**Data Science**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/ada.pdf) | 324 |
 
 
 ## 🎓 Cursos com certificado
