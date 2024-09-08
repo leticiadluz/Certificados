@@ -19,14 +19,6 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 |     Data Science Academy         | [**Machine Learning**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/certificate-machine-learning-588c218f5e4cdee0af8b456d.pdf)|[📝][9]|
 
 
-## 🎓 Cursos sem certificado
-
-| Plataforma de Ensino |                   Curso                        | Descrição |
-| :------------------: | ---------------------------------------------- |:--------: | 
-|      Udacity         | **Introduction to Descriptive Statistics**|[📝][4]| 
-|      Udacity         | **Linear Algebra Refresher Course**|[📝][5]|
-|      Udacity         | **Eigenvectors and Eigenvalues**|[📝][6]|
-
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
 [1]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%202023%20-%20O%20Curso%20COMPLETO
 [2]:https://github.com/leticiadluz/Certificados/blob/main/Certificados/Fundamentos%20de%20Linguagem%20Python
