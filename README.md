@@ -7,7 +7,7 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 |     AdaTech            | [**Data Science**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/ada.pdf) | 324 |
 
 
-## 🎓 Cursos com certificado
+## 🎓 Cursos
 
 | Plataforma de Ensino |                   Curso                        | Descrição |
 | :-------------------:| ---------------------------------------------- | :--------:| 
