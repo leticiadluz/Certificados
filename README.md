@@ -5,6 +5,9 @@ Para acessar os certificados, basta clicar no nome do curso correspondente. Os c
 | Plataforma de Ensino |                   Curso                        | Horas |
 | :-------------------:| ---------------------------------------------- | :--------:| 
 |     AdaTech            | [**Data Science**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/ada.pdf) | 324 |
+|     Data Science Academy           | [**Formação Cientista de Dados**](https://github.com/leticiadluz/Certificados/blob/main/Certificados/Certificado%20FCD%20-%20Leticia%20da%20Luz.pdf) | 482 |
+
+
 
 
 ## 🎓 Cursos
